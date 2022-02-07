@@ -1,0 +1,98 @@
+[
+    {
+        "sku#": 1,
+        "name": "apple",
+        "description": "fruit",
+        "price": 1.99
+    },
+    {
+        "sku#": 2,
+        "name": "banana",
+        "description": "fruit",
+        "price": 0.3
+    },
+    {
+        "sku#": 3,
+        "name": "chips",
+        "description": "potato chips",
+        "price": 2.97
+    },
+    {
+        "sku#": 4,
+        "name": "dish soap",
+        "description": "dish soap",
+        "price": 2.77
+    },
+    {
+        "sku#": 5,
+        "name": "eggs",
+        "description": "fruit",
+        "price": 3.07
+    },
+    {
+        "sku#": 6,
+        "name": "fries",
+        "description": "fries",
+        "price": 1.97
+    },
+    {
+        "sku#": 7,
+        "name": "grapes",
+        "description": "grapes",
+        "price": 8.75
+    },
+    {
+        "sku#": 8,
+        "name": "hummus",
+        "description": "hummus",
+        "price": 2
+    },
+    {
+        "sku#": 9,
+        "name": "ice cream vanilla",
+        "description": "ice cream",
+        "price": 3.97
+    },
+    {
+        "sku#": 10,
+        "name": "jam strawberry",
+        "description": "jam",
+        "price": 4.97
+    },
+    {
+        "sku#": 11,
+        "name": "ketchup tomato",
+        "description": "ketchup",
+        "price": 4.27
+    },
+    {
+        "sku#": 12,
+        "name": "lemon",
+        "description": "fruit",
+        "price": 0.97
+    },
+    {
+        "sku#": 13,
+        "name": "mango",
+        "description": "fruit",
+        "price": 1.27
+    },
+    {
+        "sku#": 14,
+        "name": "noodles",
+        "description": "noodles",
+        "price": 0.37
+    },
+    {
+        "sku#": 15,
+        "name": "oranges",
+        "description": "fruit",
+        "price": 1.23
+    },
+    {
+        "sku#": 16,
+        "name": "potato",
+        "description": "vegetable",
+        "price": 3.97
+    }
+]
