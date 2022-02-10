@@ -41,6 +41,9 @@ const handleProductQuantity = (handleProducts, productId, action) => {
       else {
         product.quantity -= 1;
       }
+      if(product.totalAmount) {
+        product.totalAmount = product.price * product.quantity;
+      }
     }
     return product;
   })
